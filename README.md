@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
