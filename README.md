@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
