@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0216-combination-sum-iii) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0216-combination-sum-iii) |
