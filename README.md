@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
