@@ -62,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/2050-count-good-numbers) |
 ## Matrix
 |  |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
