@@ -96,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
