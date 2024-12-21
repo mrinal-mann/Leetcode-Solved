@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0282-expression-add-operators) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0282-expression-add-operators) |
 | [2050-count-good-numbers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
