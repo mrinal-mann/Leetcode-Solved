@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0282-expression-add-operators) |
