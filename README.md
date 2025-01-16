@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -133,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
