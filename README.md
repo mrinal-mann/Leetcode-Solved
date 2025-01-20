@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
