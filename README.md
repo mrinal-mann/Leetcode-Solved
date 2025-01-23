@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1370-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0282-expression-add-operators) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -175,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
