@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
