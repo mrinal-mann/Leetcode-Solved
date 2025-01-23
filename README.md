@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
