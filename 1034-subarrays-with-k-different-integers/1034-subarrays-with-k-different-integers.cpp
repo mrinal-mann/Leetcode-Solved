@@ -1,23 +1,26 @@
 class Solution {
+private:
+    int findAtMostK(vector<int>& nums, int k) {
+        unordered_map<int, int> mpp;
+        int count = 0;
+        int l = 0;
+        
+        for (int r = 0; r < nums.size(); r++) {
+            mpp[nums[r]]++;
+            while (mpp.size() > k) {
+                mpp[nums[l]]--;
+                if (mpp[nums[l]] == 0) {
+                    mpp.erase(nums[l]);
+                }
+                l++;
+            }
+            count += r - l + 1;
+        }
+        return count;
+    }
+
 public:
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        int sub_with_max_element_k = subarray_with_atmost_k(nums,k);
-        int reduced_sub_with_max_k = subarray_with_atmost_k(nums,k-1);
-        return (sub_with_max_element_k - reduced_sub_with_max_k);
-    }
-    int subarray_with_atmost_k(vector<int>& nums,int k){
-        unordered_map<int,int> map;
-        int left = 0 , right = 0,ans = 0;
-        while(right<nums.size()){
-            map[nums[right]]++;
-            while(map.size()>k){
-                map[nums[left]]--;
-                if(map[nums[left]]==0)map.erase(nums[left]);
-                left++;
-            }
-            ans += right-left+1; // basically the size of subarray;
-            right++;
-        }
-        return ans;
+        return findAtMostK(nums, k) - findAtMostK(nums, k - 1);
     }
 };
