@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0090-subsets-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,4 +195,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
