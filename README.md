@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0076-minimum-window-substring) |
+| [0355-design-twitter](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0025-reverse-nodes-in-k-group) |
+| [0355-design-twitter](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/mrinal-mann/Leetcode-Solved/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
